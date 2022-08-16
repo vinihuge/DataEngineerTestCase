@@ -5,7 +5,7 @@ Como reproduzir o projeto:
 
 2- Realizar git clone do projeto; 
 
-3- criar um diretorio "data" dentro do projeto com os csvs e jpgs disponibilizados; 
+3- criar um diretorio "data" dentro do projeto com os CSVs e JSONs disponibilizados; 
 
 4- rodar o comando "pip install -r requirements.txt" para instalar dependencias do projeto; 
 
