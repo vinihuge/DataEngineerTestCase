@@ -41,9 +41,9 @@ def generate_pdf():
 
 
 def main():
-    # spark = SparkSession.builder.master("local[*]").appName("main").getOrCreate()
-    # run_etl(spark)
-    # run_plots(spark)
+    spark = SparkSession.builder.master("local[*]").appName("main").getOrCreate()
+    run_etl(spark)
+    run_plots(spark)
     generate_pdf()
 
 
