@@ -2,4 +2,4 @@ pyspark
 pandas
 matplotlib
 seaborn
-PIL
+Pillow
